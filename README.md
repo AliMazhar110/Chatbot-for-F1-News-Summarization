@@ -1,1 +1,1 @@
-# Chatbot-for-F1-News-Summarization
+# A Chatbot for Formula 1 News Summarization
